@@ -3,7 +3,7 @@
 #\\\\\\\\\\\\\\\\\\\
 
 #--------------
-#IMMPORTATION :
+#IMPORTATION :
 #--------------
 from tkinter import * # Tkinter
 
